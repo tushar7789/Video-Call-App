@@ -1,0 +1,11 @@
+/.env
+
+#backend 
+/Backend/node_modules
+/Backend/config.js
+/Backend/.env
+
+
+#frontend
+/Frontend/video-call-app/node_modules
+
