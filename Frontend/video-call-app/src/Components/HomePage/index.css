@@ -1,0 +1,25 @@
+#container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#input-container {
+    width: 50vw;
+    height: 100vh;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#username {
+    height: 20px;
+    width: 400px;
+    padding-left: 10px;
+    margin-bottom: 50px;
+}
